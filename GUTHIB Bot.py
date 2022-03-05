@@ -35,7 +35,7 @@ def randomShortMsg(): # Again, Skip this to avoid spoilers :P
 
 
 
-gecko_path = 'F:\\iZED\\Desktop as of Jan 2021\\geckodriver.exe' # EDIT THIS PATH WHILE PASTING
+gecko_path = PATH TO YOUR GECKODRIVER.EXE FILE # EDIT THIS PATH WHILE PASTING
 browser= webdriver.Firefox(executable_path=gecko_path)
 
 # LOGGING IN
